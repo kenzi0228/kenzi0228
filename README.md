@@ -29,7 +29,7 @@
 
 ## 💼 Experience
 
-### 🧠 Data Scientist (Finance) — Orano  
+### Data Scientist (Finance) — Orano  
 📍 Paris | 📅 Sep 2024 – Jan 2026  
 
 - Built **data quality monitoring dashboards (Power BI)** for financial KPIs  
@@ -39,7 +39,7 @@
 
 ---
 
-### ⚙️ Data Engineer — Hector Advisory  
+### Data Engineer — Hector Advisory  
 📍 Paris | 📅 Sep 2023 – Sep 2024  
 
 - Designed ETL pipelines using **Power Query**  
@@ -49,7 +49,7 @@
 
 ---
 
-### 🧪 Software Testing Intern — Crédit Agricole CIB  
+### Software Testing Intern — Crédit Agricole CIB  
 📍 Paris | 📅 Jul 2022 – Aug 2022  
 
 - Conducted functional testing via **Jira**  
@@ -62,21 +62,21 @@
 🎓 **Engineering Degree — Data & AI**  
 ECE Paris (2024 – 2027)
 
-🌍 **Exchange Program — Algebra University (Croatia)**  
+🌍 **Exchange Program — Algebra University (Zagreb, Croatia)**  
 May 2025 – Jul 2025  
 → Statistics, Probabilities, C++, Data Storytelling Certification  
 
 🎓 **Bachelor MIAGE (Information Systems & Data)**  
 Université Paris Nanterre (2023 – 2024)
 
-🎓 **MIASHS (Maths & Computer Science Applied)**  
+🎓 **Bachelor MIASHS (Maths & Computer Science Applied)**  
 Université Paris 1 Panthéon-Sorbonne (2020 – 2023)
 
 ---
 
 ## 🤖 Featured Projects
 
-### 🔬 Scientific Graph Analytics Pipeline
+### Scientific Graph Analytics Pipeline
 End-to-end pipeline processing **millions of scientific records**
 
 - Graph construction (NetworkX)
@@ -88,7 +88,7 @@ End-to-end pipeline processing **millions of scientific records**
 
 ---
 
-### 🏠 Real Estate Investment Analysis
+### Real Estate Investment Analysis
 Data-driven investment decision system
 
 - Yield calculation & price evolution
@@ -99,7 +99,7 @@ Data-driven investment decision system
 
 ---
 
-### 🚍 Big Data Transport & Weather Pipeline
+### Big Data Transport & Weather Pipeline
 Real-time data pipeline combining APIs
 
 - Kafka ingestion
@@ -110,7 +110,7 @@ Real-time data pipeline combining APIs
 
 ---
 
-### 📊 Beneficiary Lifecycle Management System
+### Beneficiary Lifecycle Management System
 Operational data & workflow system
 
 - Business rule automation
@@ -123,7 +123,7 @@ Operational data & workflow system
 
 ## 🧠 Leadership
 
-### 🟢 Director — Cop1 Solidarité Étudiante  
+### Director — Cop1 Solidarité Étudiante  
 📅 2020 – Jun 2025  
 
 - Led **multi-level teams (~20 managers supervising their own teams)**  
@@ -140,17 +140,17 @@ Operational data & workflow system
 ## ⚙️ Tech Stack
 
 **Languages**  
-Python, SQL, PL/SQL, Bash  
+Python,PL/SQL, ACL, Power Fx, Bash  
 
 **Data & ML**  
 Pandas, NumPy, NetworkX, Scikit-learn  
 
 **BI & Analytics**  
-Power BI, Tableau, Power Query  
+Power BI, Tableau, Metabase, Power Query, Orange Data Mining, Cognos BI
 
 **Tools & Platforms**  
-Azure, SAP, ACL Analytics, HighBond  
-Power Apps, Power Automate, Git  
+Azure, SAP, ACL Analytics, HighBond, AppScript
+Power Apps, Power Automate, Git, Modelio
 
 ---
 
