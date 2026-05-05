@@ -3,7 +3,7 @@
 <h3 align="center">Data Scientist | Data Engineering | Financial Data & BI</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kenzi-lali](https://www.linkedin.com/in/kenzi-mohamed-lali-klm0228/)" target="_blank">
+  <a href="https://www.linkedin.com/in/kenzi-mohamed-lali-klm0228/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kenzi%20LALI-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:kenzilali01@gmail.com">
@@ -175,7 +175,7 @@ Open to opportunities in:
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kenzi-lali">
+  <a href="https://www.linkedin.com/in/kenzi-lali](https://www.linkedin.com/in/kenzi-mohamed-lali-klm0228/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:kenzilali01@gmail.com">
