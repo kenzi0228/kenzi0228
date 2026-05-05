@@ -140,7 +140,7 @@ Operational data & workflow system
 ## ⚙️ Tech Stack
 
 **Languages**  
-Python,PL/SQL, ACL, Power Fx, Bash  
+Python, PL/SQL, ACL, Power Fx, Bash  
 
 **Data & ML**  
 Pandas, NumPy, NetworkX, Scikit-learn  
