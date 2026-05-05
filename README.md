@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kenzi LALI 👋</h1>
 
-<h3 align="center">Data Scientist | Data Engineering | Financial Data & BI</h3>
+<h3 align="center">Data Scientist Intern | Data Engineering | Financial Data & BI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kenzi-mohamed-lali-klm0228/" target="_blank">
@@ -29,7 +29,7 @@
 
 ## 💼 Experience
 
-### Data Scientist (Finance) — Orano  
+### Data Scientist Intern (Finance) — Orano  
 📍 Paris | 📅 Sep 2024 – Jan 2026  
 
 - Built **data quality monitoring dashboards (Power BI)** for financial KPIs  
@@ -39,7 +39,7 @@
 
 ---
 
-### Data Engineer — Hector Advisory  
+### Data Engineer Intern — Hector Advisory  
 📍 Paris | 📅 Sep 2023 – Sep 2024  
 
 - Designed ETL pipelines using **Power Query**  
