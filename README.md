@@ -9,9 +9,6 @@
   <a href="mailto:kenzilali01@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://github.com/kenzi0228">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
 </p>
 
 ---
@@ -130,10 +127,6 @@ Operational data & workflow system
 - Managed large-scale **student aid operations and logistics**  
 - Structured workflows, coordination, and decision-making processes  
 
-👉 Demonstrates:
-- leadership
-- organization at scale
-- real-world operational management
 
 ---
 
