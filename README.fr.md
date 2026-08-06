@@ -30,7 +30,7 @@
 
 ## 💼 Expérience
 
-### Stagiaire Data Scientist (Finance) — Orano  
+### Alternant Data Scientist (Finance) — Orano  
 📍 Paris | 📅 Sept. 2024 – Janv. 2026  
 
 - Conception de **tableaux de bord de suivi de la qualité des données (Power BI)** pour des KPIs financiers  
@@ -40,7 +40,7 @@
 
 ---
 
-### Stagiaire Data Engineer — Hector Advisory  
+### Alternant Data Engineer — Hector Advisory  
 📍 Paris | 📅 Sept. 2023 – Sept. 2024  
 
 - Conception de pipelines ETL avec **Power Query**  
@@ -50,7 +50,7 @@
 
 ---
 
-### Stagiaire Test Logiciel — Crédit Agricole CIB  
+### Alternant Test Logiciel — Crédit Agricole CIB  
 📍 Paris | 📅 Juil. 2022 – Août 2022  
 
 - Tests fonctionnels via **Jira**  
@@ -67,10 +67,10 @@ ECE Paris (2024 – 2027)
 May 2025 – Jul 2025  
 → Statistiques, Probabilités, C++, certification Data Storytelling  
 
-🎓 **Licence MIAGE (Systèmes d'information & Data)**  
+🎓 **Licence MIAGE - Méthodes Informatiques Appliquées à la Gestion d'Entreprises (Systèmes d'information & Data)**  
 Université Paris Nanterre (2023 – 2024)
 
-🎓 **Licence MIASHS (Maths & Informatique appliquées)**  
+🎓 **Licence MIASHS - (Maths & Informatique appliquées)**  
 Université Paris 1 Panthéon-Sorbonne (2020 – 2023)
 
 ---
@@ -127,7 +127,7 @@ Système opérationnel de données & de workflows
 ### Directeur — Cop1 Solidarité Étudiante  
 📅 2020 – Juin 2025  
 
-- Encadrement d'**équipes à plusieurs niveaux (~20 managers pilotant leurs propres équipes)**  
+- Encadrement d'**équipes à plusieurs niveaux (~20 responsables pilotant leurs propres équipes)**  
 - Pilotage d'**opérations et de la logistique d'aide étudiante à grande échelle**  
 - Structuration des workflows, de la coordination et des processus de décision  
 
