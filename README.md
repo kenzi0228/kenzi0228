@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Kenzi LALI 👋</h1>
 
-<h3 align="center">Data Scientist Intern | Data Engineering | Financial Data & BI</h3>
+<h3 align="center">Data Scientist | Data Engineering | Financial Data & BI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kenzi-mohamed-lali-klm0228/" target="_blank">
