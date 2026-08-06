@@ -1,3 +1,7 @@
+<p align="center">
+  <b>🇬🇧 English</b> · <a href="https://github.com/kenzi0228/kenzi0228/blob/main/README.fr.md">🇫🇷 Français</a>
+</p>
+
 <h1 align="center">Hi, I'm Kenzi LALI 👋</h1>
 
 <h3 align="center">Data Scientist Intern | Data Engineering | Financial Data & BI</h3>
@@ -73,7 +77,7 @@ Université Paris 1 Panthéon-Sorbonne (2020 – 2023)
 
 ## 🤖 Featured Projects
 
-### Scientific Graph Analytics Pipeline
+### [Scientific Graph Analytics Pipeline](https://github.com/kenzi0228/Data-engineering-citations-and-collaborations-in-science)
 End-to-end pipeline processing **millions of scientific records**
 
 - Graph construction (NetworkX)
@@ -85,7 +89,7 @@ End-to-end pipeline processing **millions of scientific records**
 
 ---
 
-### Real Estate Investment Analysis
+### [Real Estate Investment Analysis](https://github.com/kenzi0228/real-estate-investment-analysis)
 Data-driven investment decision system
 
 - Yield calculation & price evolution
@@ -96,7 +100,7 @@ Data-driven investment decision system
 
 ---
 
-### Big Data Transport & Weather Pipeline
+### [Big Data Transport & Weather Pipeline](https://github.com/kenzi0228/big-data-transport-weather-pipeline)
 Real-time data pipeline combining APIs
 
 - Kafka ingestion
@@ -107,7 +111,7 @@ Real-time data pipeline combining APIs
 
 ---
 
-### Beneficiary Lifecycle Management System
+### [Beneficiary Lifecycle Management System](https://github.com/kenzi0228/beneficiary-lifecycle-management-system)
 Operational data & workflow system
 
 - Business rule automation
