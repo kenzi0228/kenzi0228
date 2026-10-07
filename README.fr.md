@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Data Scientist (alternance) · Data Engineering · Data financière & BI</b><br>
-  Élève ingénieur Data & IA à l'ECE Paris · Paris
+  Élève ingénieur Data & IA en dernière année de cycle d'ingénieur à l'ECE Paris · Paris
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ Je construis des pipelines de données, de l'analytics et de l'automatisation su
 - Conception d'un système de reporting client automatisé (Google Apps Script → Google Slides) alimenté par BigQuery et Metabase, avec génération par lots et garde-fous de concurrence
 - Contribution à Moodwork Insights, produit d'analytics du bien-être au travail sur données anonymisées
 - Co-construction d'un chatbot de support basé sur un LLM pour le chat client (n8n)
-- Conception d'assistants IA internes pour les équipes métier et animation de formations internes
+- Conception d'assistants IA internes pour les équipes métier et animation de formations internes sur l'IA
 
 **Data Scientist Finance — Alternance** · Orano · *Sept. 2024 – Janv. 2026*
 - Tableaux de bord Power BI de suivi de la qualité des données sur les KPIs financiers
@@ -32,7 +32,10 @@ Je construis des pipelines de données, de l'analytics et de l'automatisation su
 - Traitement de données SAP pour l'audit, le reporting et la conformité ; détection et correction d'incohérences dans les systèmes financiers
 
 **Data Engineer — Alternance** · Hector Advisory · *Sept. 2023 – Sept. 2024*
-- ETL avec Power Query, automatisation avec Power Automate, outils internes avec Power Apps, dashboards Power BI
+- Conception de pipelines ETL avec Power Query
+- Automatisation de workflows métier avec Power Automate
+- Développement d'outils internes avec Power Apps comme : une application de gestion de Ressources Humaines, un application pour les campagnes d'évaluations internes et un outil de pilotage de mission pour les managers
+- Livraison de tableaux de bord opérationnels (Power BI)
 
 **Stagiaire test logiciel** · Crédit Agricole CIB · *Juil. – Août 2022* — tests fonctionnels (Jira), analyses BI (Cognos)
 
