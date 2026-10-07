@@ -1,181 +1,66 @@
 <p align="center">
-  <b>🇬🇧 English</b> · <a href="https://github.com/kenzi0228/kenzi0228/blob/main/README.fr.md">🇫🇷 Français</a>
+  <b>English</b> · <a href="https://github.com/kenzi0228/kenzi0228/blob/main/README.fr.md">Français</a>
 </p>
 
-<h1 align="center">Hi, I'm Kenzi LALI 👋</h1>
-
-<h3 align="center">Data Scientist | Data Engineering | Financial Data & BI</h3>
+<h1 align="center">Kenzi LALI</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kenzi-mohamed-lali-klm0228/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kenzi%20LALI-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:kenzilali01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
+  <b>Data Scientist (apprentice) · Data Engineering · Financial Data & BI</b><br>
+  Engineering student in Data & AI at ECE Paris · Paris, France
 </p>
-
----
-
-## 🎯 About Me
-
-🎓 Engineering student in **Data & Artificial Intelligence — ECE Paris (2024–2027)**  
-📊 Data professional with experience in **Finance, SAP, BI, and Data Pipelines**  
-⚙️ Strong focus on **data reliability, scalable analytics, and decision support systems**
-
-💡 I specialize in turning:
-> raw, complex, and imperfect data → into structured, reliable, and actionable insights
-
----
-
-## 💼 Experience
-
-### Data Scientist Intern (Finance) — Orano  
-📍 Paris | 📅 Sep 2024 – Jan 2026  
-
-- Built **data quality monitoring dashboards (Power BI)** for financial KPIs  
-- Automated **regulatory controls (Sapin II)** using ACL Analytics & HighBond  
-- Processed SAP data for **audits, reporting, and compliance**  
-- Detected and corrected **data inconsistencies in financial systems**  
-
----
-
-### Data Engineer Intern — Hector Advisory  
-📍 Paris | 📅 Sep 2023 – Sep 2024  
-
-- Designed ETL pipelines using **Power Query**  
-- Automated business workflows with **Power Automate**  
-- Developed internal tools with **Power Apps**  
-- Delivered **operational dashboards (Power BI)**  
-
----
-
-### Software Testing Intern — Crédit Agricole CIB  
-📍 Paris | 📅 Jul 2022 – Aug 2022  
-
-- Conducted functional testing via **Jira**  
-- Performed BI analysis using **Cognos**  
-
----
-
-## 🎓 Education
-
-🎓 **Engineering Degree — Data & AI**  
-ECE Paris (2024 – 2027)
-
-🌍 **Exchange Program — Algebra University (Zagreb, Croatia)**  
-May 2025 – Jul 2025  
-→ Statistics, Probabilities, C++, Data Storytelling Certification  
-
-🎓 **Bachelor MIAGE (Information Systems & Data)**  
-Université Paris Nanterre (2023 – 2024)
-
-🎓 **Bachelor MIASHS (Maths & Computer Science Applied)**  
-Université Paris 1 Panthéon-Sorbonne (2020 – 2023)
-
----
-
-## 🤖 Featured Projects
-
-### [Scientific Graph Analytics Pipeline](https://github.com/kenzi0228/Data-engineering-citations-and-collaborations-in-science)
-End-to-end pipeline processing **millions of scientific records**
-
-- Graph construction (NetworkX)
-- Community detection (Louvain)
-- Centrality metrics (PageRank, Betweenness)
-- Visualization (Gephi, Streamlit)
-
-👉 Focus: **Data Engineering + Graph Analytics**
-
----
-
-### [Real Estate Investment Analysis](https://github.com/kenzi0228/real-estate-investment-analysis)
-Data-driven investment decision system
-
-- Yield calculation & price evolution
-- Data cleaning & feature engineering
-- Analytical pipeline
-
-👉 Focus: **Business Analytics + Financial Modeling**
-
----
-
-### [Big Data Transport & Weather Pipeline](https://github.com/kenzi0228/big-data-transport-weather-pipeline)
-Real-time data pipeline combining APIs
-
-- Kafka ingestion
-- Stream processing
-- HDFS / HBase storage
-
-👉 Focus: **Big Data Engineering**
-
----
-
-### [Beneficiary Lifecycle Management System](https://github.com/kenzi0228/beneficiary-lifecycle-management-system)
-Operational data & workflow system
-
-- Business rule automation
-- Data lifecycle tracking
-- Decision dashboards
-
-👉 Focus: **Data + Operations + BI**
-
----
-
-## 🧠 Leadership
-
-### Director — Cop1 Solidarité Étudiante  
-📅 2020 – Jun 2025  
-
-- Led **multi-level teams (~20 managers supervising their own teams)**  
-- Managed large-scale **student aid operations and logistics**  
-- Structured workflows, coordination, and decision-making processes  
-
-
----
-
-## ⚙️ Tech Stack
-
-**Languages**  
-Python, PL/SQL, ACL, Power Fx, Bash  
-
-**Data & ML**  
-Pandas, NumPy, NetworkX, Scikit-learn  
-
-**BI & Analytics**  
-Power BI, Tableau, Metabase, Power Query, Orange Data Mining, Cognos BI
-
-**Tools & Platforms**  
-Azure, SAP, ACL Analytics, HighBond, AppScript
-Power Apps, Power Automate, Git, Modelio
-
----
-
-## 🚀 What I Bring
-
-- Hybrid profile: **Data Engineering + Analytics + Business**
-- Experience with **real production data (finance, SAP, compliance)**
-- Ability to build **end-to-end data workflows**
-- Strong focus on **data quality and reliability**
-
----
-
-## 🎯 Currently
-
-Open to opportunities in:
-- Data Science  
-- Data Engineering  
-- Advanced Analytics / BI  
-
----
-
-## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kenzi-lali](https://www.linkedin.com/in/kenzi-mohamed-lali-klm0228/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:kenzilali01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=for-the-badge&logo=gmail">
-  </a>
+  <a href="https://www.linkedin.com/in/kenzi-mohamed-lali-klm0228/"><img src="https://img.shields.io/badge/LinkedIn-Kenzi%20LALI-0A66C2?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:kenzilali01@gmail.com"><img src="https://img.shields.io/badge/Email-kenzilali01%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
+
+---
+
+I build data pipelines, analytics and automation on real production data: SAP finance and compliance at Orano, product and client analytics at Moodwork. I care most about one thing: numbers that decision-makers can trust.
+
+## Experience
+
+**Data Scientist — Apprentice** · Moodwork (workplace wellbeing platform) · *May 2026 – Sep 2027*
+- Built an automated client reporting system (Google Apps Script → Google Slides) fed by BigQuery and Metabase, with batch generation and concurrency safeguards
+- Contribute to Moodwork Insights, a workplace wellbeing analytics product built on anonymised data
+- Co-built an LLM-powered support chatbot on the customer chat (n8n)
+- Design internal AI assistants for business teams and run internal training on building them
+
+**Data Scientist (Finance) — Apprentice** · Orano · *Sep 2024 – Jan 2026*
+- Built Power BI data-quality dashboards for financial KPIs
+- Automated Sapin II anti-corruption controls with ACL Analytics and HighBond
+- Processed SAP data for audit, reporting and compliance; detected and fixed inconsistencies in financial systems
+
+**Data Engineer — Apprentice** · Hector Advisory · *Sep 2023 – Sep 2024*
+- ETL with Power Query, workflow automation with Power Automate, internal tools with Power Apps, Power BI dashboards
+
+**Software Testing Intern** · Crédit Agricole CIB · *Jul – Aug 2022* — functional testing (Jira), BI analysis (Cognos)
+
+## Featured projects
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [**Scientific citation graph pipeline**](https://github.com/kenzi0228/Data-engineering-citations-and-collaborations-in-science) | 16 GB of raw JSON → 5.35M publications in partitioned Parquet → citation & collaboration graphs, centrality, communities, Streamlit explorer | Python, Parquet, NetworkX, Streamlit, pytest |
+| [**Big Data transport × weather pipeline**](https://github.com/kenzi0228/big-data-transport-weather-pipeline) | Near real-time Paris metro (IDFM API) + weather ingestion, streaming and batch layers, orchestration | Kafka, HDFS, HBase, Hive, MapReduce, Oozie |
+| [**Beneficiary lifecycle management system**](https://github.com/kenzi0228/beneficiary-lifecycle-management-system) | Operations automation for beneficiary programmes: intake, eligibility rules, blacklist, fair selection, KPI dashboards | Google Apps Script, Google Sheets |
+
+## Tech stack
+
+**Languages** — Python, SQL, JavaScript (Apps Script)  
+**Data & ML** — pandas, NumPy, scikit-learn, NetworkX  
+**Data platforms** — BigQuery, Kafka, Hadoop (HDFS, HBase, Hive), SAP  
+**BI** — Power BI, Metabase, Power Query, Tableau  
+**Automation & AI** — n8n, LLM APIs, Power Automate, Power Apps  
+**Audit & compliance** — ACL Analytics, HighBond  
+**Engineering** — Git, pytest, GitHub Actions
+
+## Education
+
+- **Engineering degree, Data & AI** — ECE Paris, apprenticeship track · *2024 – 2027*
+- **Exchange semester** — Algebra University, Zagreb · *May – Jul 2025*
+- **BSc MIAGE (Information Systems)** — Université Paris Nanterre · *2023 – 2024*
+- **BSc MIASHS (Applied Maths & CS)** — Université Paris 1 Panthéon-Sorbonne · *2020 – 2023*
+
+## Leadership
+
+**Director — Cop1 Solidarité Étudiante** · *2020 – Jun 2025* — led a multi-level organisation (~20 managers, each running a team) delivering large-scale student aid operations.
